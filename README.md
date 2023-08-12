@@ -1,1 +1,1 @@
-# StoryTellerAPI
+# BlogPostGenerator
